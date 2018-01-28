@@ -8,8 +8,6 @@
 
 ## Path 
 
-
-3. wilber
-4. dwi
+[presentation](../README.html)
 
 
