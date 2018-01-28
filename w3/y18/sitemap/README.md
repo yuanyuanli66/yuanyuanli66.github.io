@@ -1,12 +1,12 @@
 
 
 
-## Location
+## Research projects
 
 1. here
 2. there
 
-## Path 
+## Presentations
 
 [presentation](../README.html)
 
