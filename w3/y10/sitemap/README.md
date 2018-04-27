@@ -8,8 +8,10 @@
     * Video demonstration: sensor network detects abnormal situation with mobile robot responding to location of anomaly (2007)
 
 ## Publications
-* [Li,  YuanYuan,  “Anomaly  detection  in  unknown  environments  using  wireless  sensor
+
+[Li,  YuanYuan,  “Anomaly  detection  in  unknown  environments  using  wireless  sensor
 networks. ” PhD diss., University of Tennessee, 2010.](http://trace.tennessee.edu/utk_graddiss/721)
+
 **Abstract:**
 This dissertation addresses the problem of distributed anomaly detection in Wireless Sensor Networks (WSN). A challenge of designing such systems is that the sensor nodes are battery powered, often have different capabilities and generally operate in dynamic environments. Programming such sensor nodes at a large scale can be a tedious job if the system is not carefully designed. Data modeling in distributed systems is important for determining the normal operation mode of the system. Being able to model the expected sensor signatures for typical operations greatly simplifies the human designer’s job by enabling the system to autonomously characterize the expected sensor data streams. This, in turn, allows the system to perform autonomous anomaly detection to recognize when unexpected sensor signals are detected. This type of distributed sensor modeling can be used in a wide variety of sensor networks, such as detecting the presence of intruders, detecting sensor failures, and so forth. The advantage of this approach is that the human designer does not have to characterize the anomalous signatures in advance.
 
