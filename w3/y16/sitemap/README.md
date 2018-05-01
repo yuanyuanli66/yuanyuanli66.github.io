@@ -12,6 +12,10 @@
     * Performed survival analysis (Cox regression model) using signature genes for all tumor types.
 
 
+## Presentations
+* [Y. Li, "A comprehensive genomic pan-cancer classification using The Cancer Genome Atlas gene expression data", Biostatistics and Computational Biology Branch Retreat, 2016](../Pan-cancerClassification_yuanyuanli_BSC_review_2016.pdf)
+
+
 ## Posters
 * [Y. Li, J. M. Krahn, N. Croutwater, K. Lee, D. M. Umbach, and L. Li, "A comprehensive genomic pan-cancer analysis using The Cancer Genome Atlas gene expression data"](../PanCancer_BSC_review_2016_v2.pdf)
 
@@ -26,8 +30,5 @@ In conclusion, we were able to accurately classify ~88% of the tumor samples in 
 
  
 
-
-## Presentations
-* [Y. Li, "A comprehensive genomic pan-cancer classification using The Cancer Genome Atlas gene expression data", Biostatistics and Computational Biology Branch Retreat, 2016](../Pan-cancerClassification_yuanyuanli_BSC_review_2016.pdf)
 
 
