@@ -3,8 +3,9 @@
 
 ## Research projects
 1. Identify functional relevance of CCCTC-binding factor (CTCF) protein
-
-Recent studies suggested that human/mammalian genomes are divided into large, discrete domains that are units of chromosome organization. CTCF, a CCCTC binding factor, has a diverse role in genome regulation including transcriptional regulation, chromosome-boundary insulation, DNA replication, and chromatin packaging. It remains unclear whether a subset of CTCF binding sites plays a functional role in establishing/maintaining chromatin topological domains. Our results suggest that the constitutive CTCF sites may play a role in organizing/maintaining the recently identified topological domains that are common across most human cells.
+* Analyzed chromatin immunoprecipitation followed by massively parallel sequencing (ChIP-seq) data from ENCODE
+* Analyzed CTCF's genomic distributions, transcriptional environment, and epigenomic environment. 
+* Predicted CTCF binding sites in ChIP-seq data
 
 2. Drug delivery using machine learning
 

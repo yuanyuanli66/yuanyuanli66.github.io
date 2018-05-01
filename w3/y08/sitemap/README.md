@@ -12,25 +12,7 @@
 ## Publications
 * [Y. Li, and L. E. Parker, "Detecting and monitoring time-related abnormal events using a wireless sensor network and mobile robot", IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2008, , Pages 3292-3298, Nice, France, 2008.](https://pdfs.semanticscholar.org/2522/3a2daf6cdd619dbd813cbafa611abf71b5d8.pdf)
 **Abstract:**
-In this paper, we present an anomaly detection system that 
-is able to detect time-related anomalies by using a
-wireless sensor network and a mobile robot. The sensor network
-uses an unsupervised fuzzy Adaptive Resonance Theory (ART)
-neural  network  to  learn  and  detect  intruders  in  a  previously
-unknown environment. Upon the detection of an intruder, a mo-
-bile robot travels to the position where the intruder is detected
-to investigate by using its camera. The wireless sensor network
-uses  a  hierarchical  communication/learning  structure,  where
-the  mobile  robot  is  the  root  node  of  the  tree.  Our  fuzzy  ART
-network is based on Kulakov and Davcev’s implementation [8].
-However,  we  enhance  their  work  by  extending  the  fuzzy  ART
-neural  network  with  a  Markov  model  to  learn  a  time  series
-and  detect  time-related  anomalies.  Finally,  a  mobile  robot  is
-employed to verify whether the detected anomalies were caused
-by  intruders.  The  proposed  architecture  is  tested  on  physical
-hardware. Our results show that our enhanced detection system
-with mobile robot verification has a higher accuracy and lower
-false alarm  rate  than  the original  fuzzy  ART system.
+In this paper, we present an anomaly detection system that is able to detect time-related anomalies by using a wireless sensor network and a mobile robot. The sensor network uses an unsupervised fuzzy Adaptive Resonance Theory (ART) neural  network  to  learn  and  detect  intruders  in  a  previously unknown environment. Upon the detection of an intruder, a mobile robot travels to the position where the intruder is detected to investigate by using its camera. The wireless sensor network uses  a hierarchical  communication/learning  structure,  where the  mobile  robot  is  the  root  node  of  the  tree.  Our  fuzzy  ART network is based on Kulakov and Davcev’s implementation [8]. However,  we  enhance  their  work  by  extending  the  fuzzy  ART neural  network  with  a  Markov  model  to  learn  a  time  series and  detect  time-related  anomalies.  Finally,  a  mobile  robot  is employed to verify whether the detected anomalies were caused by  intruders.  The  proposed  architecture  is  tested  on  physical hardware. Our results show that our enhanced detection system with mobile robot verification has a higher accuracy and lower false alarm  rate  than  the original  fuzzy  ART system.
 
 * [Y. Li, and L. E. Parker, "Nearest neighbor imputation using spatial–temporal correlations in wireless sensor networks", IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2008, , Pages 64-79, Nice, France, 2008.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5396980/)
 **Abstract:**
