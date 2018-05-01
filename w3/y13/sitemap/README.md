@@ -3,19 +3,19 @@
 
 ## Research projects
 1. Identify functional relevance of CCCTC-binding factor (CTCF) protein
-
-Recent studies suggested that human/mammalian genomes are divided into large, discrete domains that are units of chromosome organization. CTCF, a CCCTC binding factor, has a diverse role in genome regulation including transcriptional regulation, chromosome-boundary insulation, DNA replication, and chromatin packaging. It remains unclear whether a subset of CTCF binding sites plays a functional role in establishing/maintaining chromatin topological domains. Our results suggest that the constitutive CTCF sites may play a role in organizing/maintaining the recently identified topological domains that are common across most human cells.
+* Analyzed chromatin immunoprecipitation followed by massively parallel sequencing (ChIP-seq) data from ENCODE
+* Analyzed CTCF's genomic distributions, transcriptional environment, and epigenomic environment. 
+* Predicted CTCF binding sites in ChIP-seq data
 
 2. Environment monitoring using plant-based sensor network
+* Developed a plant-based sensor-network for characterzing , monitoring, and understanding the environmental impact of both naturally occuring and man-made nanoparticles. 
 
 ## Publications
 * [Y. Li,  W. Huang, L. Niu, D. M. Umbach, S. Covo, and L. Li, "Characterization of constitutive CTCF/cohesin loci: a possible role in establishing topological domains in mammalian genomes", BMC genomics, Volume 14, Issue 1, Pages 553, December 2013.](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-14-553)
 **Abstract:**
-Background: Recent studies suggested that human/mammalian genomes are divided into large, discrete domains that are units of chromosome organization. CTCF, a CCCTC binding factor, has a diverse role in genome regulation including transcriptional regulation, chromosome-boundary insulation, DNA replication, and chromatin packaging. It remains unclear whether a subset of CTCF binding sites plays a functional role in establishing/maintaining chromatin topological domains.
-
-Results: We systematically analysed the genomic, transcriptomic and epigenetic profiles of the CTCF binding sites in 56 human cell lines from ENCODE. We identified ~24,000 CTCF sites (referred to as constitutive sites) that were bound in more than 90% of the cell lines. Our analysis revealed: 1) constitutive CTCF loci were located in constitutive open chromatin and often co-localized with constitutive cohesin loci; 2) most constitutive CTCF loci were distant from transcription start sites and lacked CpG islands but were enriched with the full-spectrum CTCF motifs: a recently reported 33/34-mer and two other potentially novel (22/26-mer); 3) more importantly, most constitutive CTCF loci were present in CTCF-mediated chromatin interactions detected by ChIA-PET and these pair-wise interactions occurred predominantly within, but not between, topological domains identified by Hi-C.
-
-Conclusions: Our results suggest that the constitutive CTCF sites may play a role in organizing/maintaining the recently identified topological domains that are common across most human cells.
+*Background:* Recent studies suggested that human/mammalian genomes are divided into large, discrete domains that are units of chromosome organization. CTCF, a CCCTC binding factor, has a diverse role in genome regulation including transcriptional regulation, chromosome-boundary insulation, DNA replication, and chromatin packaging. It remains unclear whether a subset of CTCF binding sites plays a functional role in establishing/maintaining chromatin topological domains.
+*Results:* We systematically analysed the genomic, transcriptomic and epigenetic profiles of the CTCF binding sites in 56 human cell lines from ENCODE. We identified ~24,000 CTCF sites (referred to as constitutive sites) that were bound in more than 90% of the cell lines. Our analysis revealed: 1) constitutive CTCF loci were located in constitutive open chromatin and often co-localized with constitutive cohesin loci; 2) most constitutive CTCF loci were distant from transcription start sites and lacked CpG islands but were enriched with the full-spectrum CTCF motifs: a recently reported 33/34-mer and two other potentially novel (22/26-mer); 3) more importantly, most constitutive CTCF loci were present in CTCF-mediated chromatin interactions detected by ChIA-PET and these pair-wise interactions occurred predominantly within, but not between, topological domains identified by Hi-C.
+*Conclusions:* Our results suggest that the constitutive CTCF sites may play a role in organizing/maintaining the recently identified topological domains that are common across most human cells.
 
 
 
