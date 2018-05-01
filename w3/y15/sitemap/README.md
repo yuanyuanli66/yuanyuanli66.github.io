@@ -22,6 +22,6 @@ Primary and metastatic melanoma tumors share the same cell origin, making it cha
 
 ## Presentations
 
-[presentation](../README.html)
+[Y. Li, "TCGA PanCancer Analysis: feature interaction"](../FeatureInteraction.pdf)
 
 
