@@ -16,6 +16,9 @@
 **Abstract:**
 Primary and metastatic melanoma tumors share the same cell origin, making it challenging to identify genomic biomarkers that can differentiate them. Primary tumors themselves can be heterogeneous, reflecting ongoing genomic changes as they progress toward metastasizing. We developed a computational method to explore this heterogeneity and to predict metastatic progression of the primary tumors. We applied our method separately to gene expression and to microRNA (miRNA) expression data from ~450 primary and metastatic skin cutaneous melanoma (SKCM) samples from the Cancer Genome Atlas (TCGA). Metastatic progression scores from RNA‐seq data were significantly associated with clinical staging of patients’ lymph nodes, whereas scores from miRNA‐seq data were significantly associated with Clark's level. The loss of expression of many characteristic epithelial lineage genes in primary SKCM tumor samples was highly correlated with predicted progression scores. We suggest that those genes/miRNAs might serve as putative biomarkers for SKCM metastatic progression. 
 
+## Posters
+* [C. R. Weinberg, M. Shi, A. Wise, D. M. Umbach, J. Krahn, Y. Li, L. Li, "A Stochastic Search Algorithm for Finding Multi-SNP Effects Using Nuclear Families", 2015.](../restructuredIGES2015_Sept29-v2_dmucrw.pdf)
+
 
 ## Presentations
 
