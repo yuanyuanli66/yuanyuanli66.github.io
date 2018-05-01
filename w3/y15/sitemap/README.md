@@ -4,7 +4,7 @@
 ## Research projects
 1. Predict metastatic progression of melanoma using machine learning 
     * Predicted tumor progression and identified signature genes simultaneously using RNA-seq and miRNA-seq from The Cancer Genome Atlas (TCGA) melanoma (SKCM) data.
-    * Challenges of the problem included: 1) large *P* small *N* (~20,000 genes x ~400 samples) and 2) perform gene selection and prediction at the same time.
+    * Challenges of the problem included: 1) large *P* small *N* (~20,000 genes X ~400 samples) and 2) perform gene selection and prediction at the same time.
     * Used Genetic Algorithm to select 20 genes at a time and used K-nearest neighbor to evaluate these genes' prediction performances (GA/KNN). 
     * Use GA to fully search the gene space is expansive, developed a parallelized version of GA using POSIX threads. 
     * Associated selected signature genes and miRNA with various clinical outcomes via statistical tests.

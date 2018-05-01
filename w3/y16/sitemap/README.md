@@ -4,8 +4,8 @@
 ## Research projects
 1. Pan-cancer analysis using TCGA RNA-seq data
     * Identified differential expressed genes that can predict 33 tumor types using GA/KNN multi-class classification.
-    * The problem is challenging due to large data size (~20,000 genes x ~10,000 samples for 33 tumor types). 
-    * It took ~ 1 month for GA/KNN to fully explore the solution space. 
+    * The problem is challenging due to large data size (~20,000 genes X ~10,000 samples for 33 tumor types). 
+    * It took ~1 month for GA/KNN to fully explore the solution space. 
     * Started exploring Gradient Boosted Machines (GBMs) as an alternative machine learning method for this problem. 
     * It only took GBMs a few hours to explore the solution space with higher classification accuracies.
     * Performed cluster analysis using signature genes.
