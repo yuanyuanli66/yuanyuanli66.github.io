@@ -3,11 +3,17 @@
 
 ## Research projects
 
-1. Wireless sensor network (Mica2 and Mica2dot) and autonomous robot (Pioneer3)
-    * Detect anomalous event in unknown environments using WSNs and a mobile robot
-    * Video demonstration: sensor network detects abnormal situation with mobile robot responding to location of anomaly (2007)
+1. Detect anomalous event in unknown environments using wireless sensor networks and a mobile robot 
+    * Wireless sensors: Mica2 and Mica2dot
+    * Autonomous robot: Pioneer 3
+    * In this project, we are developing algorithms for distributed sensor data modeling and anomaly detection in systems of sensor networks and autonomous mobile robots using machine learning techniques. Data modeling in distributed systems is critically important for determining the "normal" operation mode of the system. Being able to model the expected sensor signatures for typical operations greatly simplifies the human designer's job in the practical application of new sensor and mobile robot systems; by enabling the system to autonomously characterize the expected sensor data streams, the system can learn the important features of its environment to monitor. This, in turn, allows the system to perform autonomous anomaly detection to recognize when unexpected sensor signals are detected. This type of distributed sensor modeling and anomaly detection can be used in a wide variety of sensor network and mobile robot applications, such as detecting the presence of intruders, detecting sensor failures, detecting anomalous human motion patterns, detecting unexpected chemical signatures, and so forth. The advantage of this approach is that the human designer does not have to characterize the anomalous signatures in advance. Instead, the system of sensor nodes and mobile robots can learn this characterization autonomously, for quick application to new domains. Our work focuses on the research aspect of these issues. The techniques being developed employ distributed statistical machine learning approaches for sensor data modeling and anomaly detection. The algorithms are being designed, developed, evaluated, and validated experimentally in laboratory application scenarios, such as intruder detection, or environmental coverage and exploration.
+    
 2. Indoor wireless localization for mobile robots
     * Designed and implemented wireless indoor positioning system to locate mobile robots using triangulation and fingerprinting.
+
+## Video demonstrations
+* [Sensor network detects abnormal situation with mobile robot responding to location of anomaly (2007)](../intruder_detection_ornl.wmv)
+* [Robot demo, NSF CMM (2008)](../NSF_demo_movie.wmv)
 
 ## Publications
 * [Y. Li, and L. E. Parker, "Detecting and monitoring time-related abnormal events using a wireless sensor network and mobile robot", IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2008, , Pages 3292-3298, Nice, France, 2008.](https://pdfs.semanticscholar.org/2522/3a2daf6cdd619dbd813cbafa611abf71b5d8.pdf)
